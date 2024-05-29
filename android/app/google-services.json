@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991948113441",
+    "project_id": "new-note-app-3d764",
+    "storage_bucket": "new-note-app-3d764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991948113441:android:3a6667c192d69b504c8560",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUBCMRrHznPn1Jy7bt3FPTLdAmxh3IwLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
